@@ -11,7 +11,7 @@ function arrayPairSum($nums) {
         echo("Current Sum: $sum\n");
     }
     echo("Final Sum: $sum\n");
-    //return $sum;
+    return $sum;
 }
 
 arrayPairSum([6, 2, 6, 5, 1, 2]);
